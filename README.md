@@ -1,3 +1,3 @@
-## HI THERE👋.
+## HI THERE.👋
 
-- this is my public/private hacking tools repo. 🔭 🌱  📫 😄 ⚡.
+- this is my public/private hacking repo. 🔭🌱😄⚡
